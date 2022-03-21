@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/donosonaumczuk/cryptosystem#readme",
   "dependencies": {
+    "@types/node": "^17.0.21",
+    "dotenv": "^16.0.0",
     "eth-crypto": "^2.2.0"
   }
 }
